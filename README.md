@@ -11,5 +11,8 @@ raw data - columns : 2569 & records : 50710
 
 
 ### 1. Hypothesis
+- 여행 2차 이상 2.%
+- 최대 여행 인원수 감소
+- 
 
 ### 2. Visualization
